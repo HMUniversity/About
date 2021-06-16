@@ -25,3 +25,17 @@ Fortunately, it will help. If it doesn't, please contact us directly.
 在接受你的申请后，一封邀请信会发送至你与 GitHub 相关联的邮箱内。
 如果你没有受到任何邮件，但是你的申请已被批准，尝试点击 [这个链接](https://github.com/orgs/HMUniversity/invitation?via_email=1)。
 通常地，它会工作。如果它没有，请与我们直接取得联系。
+
+## CAS
+
+CAS, also known as Confirmation of Acceptance for Studies, is an electronic acceptance letter.
+If you are accepeted by HM university and pay the deposit to confirm enrolment within the specified time, you can apply a CAS.
+Each CAS has a unique reference number containing course information and student information.  
+If you want, please email us or open an issue.
+
+## CAS
+
+CAS全称是Confirmation of Acceptance for Studies，也就是电子录取通知书。
+如果你在规定的时间内缴纳押金确认入学家里蹲大学，你可以申请 CAS。
+每个CAS都有一个唯一的参考编号，包含课程信息和学生信息。
+如果你需要，请邮件联系我们或者打开一个 issue。
