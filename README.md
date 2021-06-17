@@ -18,7 +18,7 @@ After accepting your application, an invitation email will be sent to your email
 If you do not receive any email but your application has been approved, try click [this link](https://github.com/orgs/HMUniversity/invitation?via_email=1).
 Fortunately, it will help. If it doesn't, please contact us directly.
 
-## 如果申请家里蹲大学
+## 如何申请家里蹲大学
 
 去申请家里蹲大学，你不需要使用 UCAS，不需要 IELTS 或者类似成绩。你需要做的只是在此存储库<sup>repository</sup>打开一个 issue 并且阐述你想要加入家里蹲大学。
 
