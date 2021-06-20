@@ -22,7 +22,7 @@ Fortunately, it will help. If it doesn't, please contact us directly.
 
 去申请家里蹲大学，你不需要使用 UCAS，不需要 IELTS 或者类似成绩。你需要做的只是在此存储库<sup>repository</sup>打开一个 issue 并且阐述你想要加入家里蹲大学。
 
-在接受你的申请后，一封邀请信会发送至你与 GitHub 相关联的邮箱内。如果你没有受到任何邮件，但是你的申请已被批准，尝试点击 [这个链接](https://github.com/orgs/HMUniversity/invitation?via_email=1)。通常地，它会工作。如果它没有，请与我们直接取得联系。
+在接受你的申请后，一封邀请信会发送至你与 GitHub 相关联的邮箱内。如果你没有收到任何邮件，但是你的申请已被批准，尝试点击 [这个链接](https://github.com/orgs/HMUniversity/invitation?via_email=1)。通常地，它会工作。如果它没有，请与我们直接取得联系。
 
 ## CAS
 
