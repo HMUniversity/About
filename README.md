@@ -16,9 +16,9 @@ We want the definition of success to be less about quantifiable virtual products
 To apply Home University, you needn't UCAS system, IELTS or similar scores.
 What you need do is just open an issue on this repository and say that you want to join this uni.
 
-After accepting your application, an invitation email will be sent to your email address which is associated with your GitHub account.
-If you do not receive any email but your application has been approved, try click [this link](https://github.com/orgs/HMUniversity/invitation?via_email=1).
-Fortunately, it will help. If it doesn't, please contact us directly.
+If your application is accepted, you will receive an offer email with an invitation link.
+Alternatively, you can try [this link](https://github.com/orgs/HMUniversity/invitation?via_email=1).
+If neither works for you, please contact us directly.
 
 ## 如何申请家里蹲大学
 
