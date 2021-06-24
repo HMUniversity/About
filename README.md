@@ -1,3 +1,5 @@
+[Telegram](https://t.me/hmuni) | [Email](mailto:admin@alumni.hmuniversity.org)
+
 # About
 
 Home University, also known as HM University or 家里蹲大学, is a virtual global comprehensive university located in Sussex, England.  
