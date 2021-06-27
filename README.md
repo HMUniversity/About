@@ -18,7 +18,7 @@ What you need do is just open an issue on this repository and say that you want 
 
 If your application is accepted, you will receive an offer email with an invitation link.
 Alternatively, you can try [this link](https://github.com/orgs/HMUniversity/invitation?via_email=1).
-If neither works for you, please contact us directly.
+If neither work for you, please contact us directly.
 
 ## 如何申请家里蹲大学
 
