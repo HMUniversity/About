@@ -45,3 +45,11 @@ In the email, don't forget to mention your GitHub ID and the alias which you wan
 ## 校友邮箱
 
 如果您完成了家里蹲大学的任意学业，您可以申请您的校友邮箱。您需要在发送一封申请邮件至 alumniapply(AT)alumni.hmuniversity.org。 其中需要包含您的 GitHub ID 以及您所需要的别名。
+
+## Education Email
+
+No, we have not any education email. So please go out and turn right on your own if you want to get educational privileges through Home Universitiy, and don't waste our time.
+
+## 教育邮箱
+
+没有。我们没有教育邮箱。所以想通过家里蹲大学白嫖教育特权的请自行出门右转，也不要浪费我们的时间。
