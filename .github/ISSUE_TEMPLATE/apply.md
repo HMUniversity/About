@@ -3,7 +3,7 @@ name: Apply
 about: Apply Home University
 title: Apply
 labels: ''
-assignees: KevinZonda
+assignees: KevinZonda, AkinoKaede
 
 ---
 
