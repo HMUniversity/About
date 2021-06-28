@@ -7,8 +7,8 @@ assignees: KevinZonda
 
 ---
 
-Dear whom may concern,
+Dear whom may concern,  
 Hello. I want to join Home University to lie flat!
 
-Regards,
+Regards,  
 <YourID>
