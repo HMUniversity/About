@@ -18,7 +18,7 @@ CAS全称是Confirmation of Acceptance for Studies，也就是电子录取通知
 
 ## 校友邮箱
 
-如果您完成了家里蹲大学的任意学业，您可以申请您的校友邮箱。您需要在发送一封申请邮件至 alumniapply(AT)alumni.hmuniversity.org。 其中需要包含您的 GitHub ID 以及您所需要的别名。
+如果您完成了家里蹲大学的任意学业，您可以申请您的校友邮箱。您需要发送一封申请邮件至 alumniapply(AT)alumni.hmuniversity.org。 其中需要包含您的 GitHub ID 以及您所需要的别名。
 
 ## 教育邮箱
 
