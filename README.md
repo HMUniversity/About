@@ -9,12 +9,28 @@ We want the definition of success to be less about quantifiable virtual products
 
 ## How to apply Home University
 
-To apply Home University, you needn't UCAS system, IELTS or similar scores.
+Generally, to apply Home University, you needn't UCAS system, IELTS or similar scores.
 What you need do is just open an issue on this repository and say that you want to join this uni.
 
 If your application is accepted, you will receive an offer email with an invitation link.
 Alternatively, you can try [this link](https://github.com/orgs/HMUniversity/invitation?via_email=1).
 If neither work for you, please contact us directly.
+
+### Apply from UCAS
+
+If you use UCAS to apply Home University, please make sure that you choose the correct university:
+
+- Home University(H00) with Lie Flat(LF0).
+
+Usually, you will get conditional offer within 14 work days.
+
+After that, you need not upload your academic transcript and other documents to our admission.
+
+After wait for 14 work days, your conditional offer will become unconditional offer, and your place will be confirmed. Your UCAS track will display like:
+
+![](image/ucas-track.png)
+
+By these process, you will become a student of Home University.
 
 ## CAS
 
