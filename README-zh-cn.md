@@ -18,7 +18,7 @@
 
 - Home University(H00) with Lie Flat(LF0).
 
-通常地，你会得到你的<ruby>有条件的录取通知书<rp>（</rp><rt>Conditional Offer</rt><rp>）</rp></ruby>在14个工作日内。
+通常地，你会在 14 个工作日内得到你的<ruby>有条件的录取通知书<rp>（</rp><rt>Conditional Offer</rt><rp>）</rp></ruby>。
 
 在此之后，你不需要提交你的学术成绩以及其他资料至我们的<ruby>录取<rp>（</rp><rt>Admission</rt><rp>）</rp></ruby>部门。
 
