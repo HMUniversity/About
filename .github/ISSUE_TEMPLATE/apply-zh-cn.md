@@ -3,7 +3,7 @@ name: 申请入学
 about: 申请加入家里蹲大学
 title: '申请'
 labels: application
-assignees: KevinZonda, clang-with-gcc
+assignees: KevinZonda, clang-with-gcc, Cubik65536
 ---
 
 家里蹲大学：  
