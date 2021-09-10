@@ -18,7 +18,7 @@ Most tutorial teaching takes place in colleges with academic tutors who usually 
 
 Each college is unique, but generally their facilities are pretty similar. Each one, large or small will have the following essential facilities:
 
-- GitHub organisation
+- GitHub Team
 - Contact Email
 
 ## Do you choose a college to apply to?
