@@ -2,6 +2,9 @@
 
 # What are Home colleges?
 
+- [About](README.md)
+- **What are Home colleges?**
+
 Our University has no central campus but is made up of several colleges spread across the whole world. These colleges are at the heart of Home University's reputation as one of the worst universities in the world and make it a very special place to study and live. Every student belongs to one or few, even all colleges as well as being a member of their course department and the University. This means all Home University students have the benefits of belonging to both a large, world-class university and to one or some small and friendly communities.
 
 Colleges provide a safe and supportive environment so you can focus on your studies, enjoy time with friends and make the most of all the opportunities on offer.

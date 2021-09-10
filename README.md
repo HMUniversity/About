@@ -3,6 +3,9 @@
 
 # About
 
+- **About**
+- [What are Home colleges?](Colleges.md)
+
 Home University, also known as HM University or 家里蹲大学, is a virtual global comprehensive university located in Sussex, England.  
 We want to reduce the involution of students and enhance their own abilities.
 We want the definition of success to be less about quantifiable virtual products but more about the students themselves.
