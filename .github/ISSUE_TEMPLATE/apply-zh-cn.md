@@ -10,8 +10,9 @@ assignees: KevinZonda, clang-with-gcc, Cubik65536
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;您好！我志愿加入家里蹲大学xxx学院躺平！
 
 
-如果你想加入一个特定学院请在此处修改xxx
-如果不需要，请删除学院信息！
+如果你想加入一个特定学院请在此处勾选：
+- [ ] [<img style="width: 11px;" src="https://avatars.githubusercontent.com/t/5109196?s=280&v=4"> St. Linus College](https://github.com/orgs/HMUniversity/teams/st-linus-college)
+- [ ] [<img style="width: 11px;" src="https://avatars.githubusercontent.com/t/5109198?s=280&v=4"> St. Chi College](https://github.com/orgs/HMUniversity/teams/st-chi-college)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此致  
