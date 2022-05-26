@@ -11,8 +11,10 @@ assignees: KevinZonda, clang-with-gcc, Cubik65536
 
 
 如果你想加入一个特定学院请在此处勾选：
-- [ ] [St. Linus College](https://github.com/orgs/HMUniversity/teams/st-linus-college)
+
 - [ ] [St. Chi College](https://github.com/orgs/HMUniversity/teams/st-chi-college)
+- [ ] [ZWB College](https://github.com/orgs/HMUniversity/teams/zwb-college)
+- [ ] [St. Linus College](https://github.com/orgs/HMUniversity/teams/st-linus-college)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此致  
