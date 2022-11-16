@@ -1,13 +1,18 @@
 [Telegram](https://t.me/hmuni) | [Email](mailto:admin@alumni.hmuniversity.org)  
 [English (UK)](README.md) | **简体中文（中国大陆）**
 
-# 关于
-
-- **关于**
-- [什么是家里蹲学院？](Colleges.md)
+## 关于家里蹲大学
 
 家里蹲大学，又名 Home University 或 HM University，是一所虚拟全球综合性的学院制大学。  
-我们希望降低学生间内卷并提升学生自身能力。我们希望成功的定义不应在于可量化的虚拟产物，而更在于学生本身。
+
+出于如下愿景，我们建立了这所大学：
+> **我们希望降低学生间内卷并提升学生自身能力。**  
+> **我们希望成功的定义不应在于可量化的虚拟产物，而更在于学生本身。**
+
+## 家里蹲大学办学特色
+
+打开此页面以了解 [家里蹲大学的办学特色](Characteristic-zh-cn.md)
+
 
 ## 如何申请家里蹲大学
 
@@ -37,7 +42,8 @@ CAS 全称是 Confirmation of Acceptance for Studies，也就是电子录取通�
 
 ## 校友邮箱
 
-如果您完成了家里蹲大学的任意学业，您可以申请您的校友邮箱。您需要发送一封申请邮件至 alumniapply(AT)alumni.hmuniversity.org。 其中需要包含您的 GitHub ID 以及您所需要的别名。
+如果您完成了家里蹲大学的任意学业，您可以申请您的校友邮箱。您需要发送一封申请邮件至 `alumniapply(AT)alumni.hmuniversity.org` 。   
+其中需要包含您的 GitHub ID 以及您所需要的别名。
 
 ## 教育邮箱
 

@@ -1,14 +1,18 @@
 [Telegram](https://t.me/hmuni) | [Email](mailto:admin@alumni.hmuniversity.org)  
 **English (UK)** | [简体中文（中国大陆）](README-zh-cn.md)
 
-# About
-
-- **About**
-- [What are Home colleges?](Colleges.md)
+## About Home University
 
 Home University, also known as HM University or 家里蹲大学, is a virtual global comprehensive collegiate university.  
-We want to reduce the involution of students and enhance their own abilities.
-We want the definition of success to be less about quantifiable virtual products but more about the students themselves.
+
+
+In order to achieve the following vision, we build the Home University:
+> **We want to reduce the involution of students and enhance their own abilities.**    
+> **We want the definition of success to be less about quantifiable virtual products but more about the students themselves.**
+
+## Characteristic of HM University
+please open this page for more detail: [Characteristic of HM University](Characteristic.md)
+
 
 ## How to apply Home University
 
@@ -42,11 +46,12 @@ If you are accepeted by HM university and pay the deposit to confirm enrolment w
 Each CAS has a unique reference number containing course information and student information.  
 If you want, please email us or open an issue.
 
-## Alumni Mail
+## About  Alumni Mail
 
-If you finish any degree in Home University, you can apply your alumni account by emailing alumniapply(AT)alumni.hmuniversity.org.
+If you finish any degree in Home University, you can apply your alumni account by emailing `alumniapply(AT)alumni.hmuniversity.org`.     
 In the email, don't forget to mention your GitHub ID and the alias which you want.
 
-## Education Email
+## About Education Email
 
-No, we have not any education email. So please go out and turn right on your own if you want to get educational privileges through Home Universitiy, and don't waste our time.
+No, we have not any education email.   
+So please go out and turn right on your own if you want to get educational privileges through Home Universitiy, and don't waste our time.
