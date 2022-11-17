@@ -6,7 +6,7 @@
 Home University, also known as HM University or 家里蹲大学, is a virtual global comprehensive collegiate university.  
 
 
-In order to achieve the following vision, we build the Home University:
+To achieve the following vision, we build the Home University:
 > **We want to reduce the involution of students and enhance their own abilities.**    
 > **We want the definition of success to be less about quantifiable virtual products but more about the students themselves.**
 
@@ -46,7 +46,7 @@ If you are accepeted by HM university and pay the deposit to confirm enrolment w
 Each CAS has a unique reference number containing course information and student information.  
 If you want, please email us or open an issue.
 
-## About  Alumni Mail
+## About Alumni Mail
 
 If you finish any degree in Home University, you can apply your alumni account by emailing `alumniapply(AT)alumni.hmuniversity.org`.     
 In the email, don't forget to mention your GitHub ID and the alias which you want.
