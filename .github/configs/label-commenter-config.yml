@@ -1,0 +1,25 @@
+# .github/configs/label-commenter-config.yml
+
+labels:
+  - name: 'accepted'
+    labeled:
+      issue:
+        body: |
+          Hi,
+          Congratulations! Your application has been accepted and the offer has been sent to your mail. Please confirm the offer or the invitation within 7 days.
+
+          Regards,
+          Home University
+
+  - name: 'rejected'
+    labeled:
+      issue:
+        body: |
+          Hi,
+
+          The admission committee has concluded its evaluation of Early Decision applicants to Home University. Unfortunately, we are unable to offer you a place in our class. Since Home University was your top choice, we understand this news is very disappointing.
+
+          The admission committee appreciates the time and effort you put into applying to Home University. We wish you every success as you pursue your education.
+
+          Regards,
+          Admission Committee, Home University
