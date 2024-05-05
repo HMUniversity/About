@@ -1,0 +1,17 @@
+name: Invite on Issue
+
+on:
+  issues:
+    types: [opened, edited]
+jobs:
+  invite:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Invite to Organization
+      uses: some-org/some-invite-action@v1
+      with:
+        issue-keyword: '您好！我志愿加入家里蹲大学躺平！'
+        token: ${{ secrets.GITHUB_TOKEN }}
+        org: 'HMUniversity'
