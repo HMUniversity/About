@@ -3,8 +3,7 @@ name: Apply
 about: Apply Home University
 title: Apply
 labels: ''
-assignees: KevinZonda, clang-with-gcc, Cubik65536
-
+assignees: KevinZonda, clang-with-gcc
 ---
 
 Dear whom may concern,  
