@@ -9,6 +9,14 @@ body:
       value: |
         I want to join Home University to lie flat!
 
+  - type: checkboxes
+    attributes:
+      label: FLAT
+      description: Are you sure you want to lie flat?
+      options:
+        - label: I do!
+          required: true
+
   - type: markdown
     attributes:
       value: "Thanks for completing the application form :)"
