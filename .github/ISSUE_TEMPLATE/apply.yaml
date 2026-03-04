@@ -1,0 +1,14 @@
+name: "Alumni Application"
+description: "HMUniversity Application"
+title: "Application"
+labels: ["apply-hmu"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        I want to join Home University to lie flat!
+
+  - type: markdown
+    attributes:
+      value: "Thanks for completing the application form :)"
