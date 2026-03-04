@@ -22,8 +22,8 @@ echo "$issues" | while read -r issue_num user_id; do
 
     if [ $? -eq 0 ]; then
         gh issue close "$issue_num" --comment "$COMMENT_BODY"
-        echo "[INFO] closed Issue #$issue_num and commented on it."
+        echo "[ OK ] closed Issue #$issue_num and commented on it."
     else
-        echo "[ERROR] failed to send invitation (user may already be in the organisation or insufficient permissions)."
+        echo "[FAIL] failed to send invitation (user may already be in the organisation or insufficient permissions)."
     fi
 done
