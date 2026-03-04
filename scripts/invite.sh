@@ -9,7 +9,7 @@ Regards,
 Home University"
 
 echo "[INFO] getting issue list..."
-issues=$(gh issue list --state open --json number,author --jq '.[] | "\(.number) \(.author.login)"')
+issues=$(gh issue list --limit 1000 --state open --json number,author --jq '.[] | "\(.number) \(.author.login)"')
 
 if [ -z "$issues" ]; then
     echo "[ERROR] no open issues found."
