@@ -1,0 +1,22 @@
+name: Invite User to GitHub Org on labeled issue
+
+on:
+  issues:
+    types: [labeled]
+
+jobs:
+  automate_invite:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Invite on label
+        uses: vj-abigo/invite-on-label@v1.4
+        with:
+          organization: HMUniversity
+          label: apply-hmu
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          comment: |
+            Welcome to the Home University!
+
+          existingMemberMessage: "You've already applied, please DO NOT create multiple requests or else we will be forced to remove you."
+        env:
+          INVITE_TOKEN: ${{ secrets.INVITE_TOKEN }}
