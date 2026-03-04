@@ -17,7 +17,6 @@ if [ -z "$issues" ]; then
 fi
 
 echo "$issues" | while read -r issue_num user_id; do
-    echo "-----------------------------------"
     echo "[INFO] processing Issue #$issue_num | user: $user_id"
     gh api -X PUT "orgs/$ORG_NAME/memberships/$user_id" -f role='member' > /dev/null 2>&1
 
